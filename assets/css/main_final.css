@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #000000 url("images/bg_final.gif") bottom left; /* ALTERADO de bg.jpg para bg.png */
+		background: #121c25 url("images/bg_final.gif") bottom left; /* ALTERADO de bg.jpg para bg.png */
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
