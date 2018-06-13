@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #000000 url("images/bg_final.gif") bottom left; /* ALTERADO de bg.jpg para bg.png */
+		background: #d75973 url("images/bg_dia_dos_namorados.png") bottom left; /* ALTERADO de bg.jpg para bg.png */
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -764,7 +764,7 @@
 		}
 
 		#bg {
-			background-size: 18% auto;
+			background-size: 1500px auto;
 			width: 4500px;
 		} }
 
@@ -846,7 +846,7 @@
 		}
 
 		#bg {
-			background-size: 18% auto;
+			background-size: 750px auto;
 			width: 2250px;
 		} }
 
@@ -932,7 +932,7 @@
 		}
 
 		#bg {
-			background-size: 18% auto;
+			background-size: 300px auto;
 			width: 900px;
 		}
 
@@ -1030,7 +1030,7 @@
 		}
 
 		#bg {
-			background-size: 18% auto;
+			background-size: 412.5px auto;
 			width: 1237.5px;
 		}
 
