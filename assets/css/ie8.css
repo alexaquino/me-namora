@@ -20,7 +20,7 @@
 /* Footer */
 
 	#footer {
-		background-image: url("images/ie/footer.png");
+		background-image: url("../image/ie/footer.png");
 		background-position: bottom left;
 		background-repeat: repeat-x;
 	}
