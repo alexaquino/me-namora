@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #121c25 url("images/bg.png") bottom left; /* ALTERADO de bg.jpg para bg.png */
+		background: #121c25 url("../image/bg.png") bottom left; /* ALTERADO de bg.jpg para background-blue-sky.png */
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -312,7 +312,7 @@
 		-ms-animation: overlay 1.5s 1.5s forwards;
 		animation: overlay 1.5s 1.5s forwards;
 		background-attachment: fixed, fixed;
-		background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");
+		background-image: url("../image/overlay-pattern.png"), url("../image/overlay.svg");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
